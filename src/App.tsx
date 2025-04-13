@@ -166,10 +166,10 @@ function App() {
             <div>
               <h3 className="text-white font-semibold mb-4">Connect</h3>
               <ul className="space-y-2 text-gray-400">
-                <li>Twitter</li>
-                <li>LinkedIn</li>
-                <li>Facebook</li>
-                <li>GitHub</li>
+                <li><a href="https://www.instagram.com/inferno_t9s/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+                <li><a href="https://x.com/inferno101x1" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+                <li><a href="https://www.linkedin.com/in/vulnvm-t9g/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+                <li><a href="https://github.com/vulnvm-t9g" target="_blank" rel="noopener noreferrer">GitHub</a></li>
               </ul>
             </div>
           </div>
