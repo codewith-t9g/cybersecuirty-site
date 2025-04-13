@@ -10,7 +10,7 @@ function App() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
               <Shield className="w-8 h-8 text-cyan-500" />
-              <span className="ml-2 text-xl font-bold text-white">CyberShield</span>
+              <span className="ml-2 text-xl font-bold text-white">Ecybersecurity</span>
             </div>
             <div className="hidden md:block">
               <div className="flex items-center space-x-8">
